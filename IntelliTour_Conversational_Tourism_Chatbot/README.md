@@ -197,7 +197,7 @@ IntelliTour_Conversational_Tourism_Chatbot/
 
 ### Starting a Conversation
 Users interact with IntelliTour by sending WhatsApp messages to the configured phone number. The assistant will:
-1. Process the message through OpenAI's GPT-4 model
+1. Process the message through OpenAI's GPT-3.5 Turbo model
 2. Determine if any tools/functions need to be called
 3. Execute necessary API calls (weather, flights, hotels, etc.)
 4. Generate a contextual response
@@ -240,4 +240,5 @@ Use the `start/WhatsApp_Start.py` script to test WhatsApp message sending functi
 - All API keys should be kept secure and never committed to version control
 - The application requires a publicly accessible URL for WhatsApp webhook verification
 - Thread database files (`user_threads.db.*`) are created automatically on first run
+
 
