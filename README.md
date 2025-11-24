@@ -135,7 +135,7 @@ IntelliTour_Conversational_Tourism_Chatbot/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/KKXWaweru/IntelliTour_Conversational_Tourism_Chatbot_Project.git>
    cd IntelliTour_Conversational_Tourism_Chatbot
    ```
 
