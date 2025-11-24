@@ -6,7 +6,7 @@
 ## Overview
 **IntelliTour** is a fully functional Python project demonstrating the assistive capability of intelligent machine learning models in the Tourism industry.
 
-This project utilizes **WhatsApp** as the interaction point between users and the model. It leverages **Natural Language Processing** (NLP) powered by OpenAI's GPT-4 to guide users in planning trips, discovering destinations, and receiving tailored suggestions based on their preferences and past interactions.
+This project utilizes **WhatsApp** as the interaction point between users and the model. It leverages **Natural Language Processing** (NLP) powered by OpenAI's GPT-3.5 Turbo to guide users in planning trips, discovering destinations, and receiving tailored suggestions based on their preferences and past interactions.
 
 ## Key Features
 
@@ -240,3 +240,4 @@ Use the `start/WhatsApp_Start.py` script to test WhatsApp message sending functi
 - All API keys should be kept secure and never committed to version control
 - The application requires a publicly accessible URL for WhatsApp webhook verification
 - Thread database files (`user_threads.db.*`) are created automatically on first run
+
