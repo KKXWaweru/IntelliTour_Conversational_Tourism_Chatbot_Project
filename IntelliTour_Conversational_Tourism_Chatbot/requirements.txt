@@ -1,0 +1,7 @@
+#In order to ensure smooth running of the project, install the following libraries
+flask
+python-dotenv
+openai
+aiohttp
+requests
+amadeus
